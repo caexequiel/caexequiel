@@ -14,7 +14,7 @@ Soy profesor de física apasionado por la enseñanza y el desarrollo de software
 - Robótica con Arduino
 
 ### Proyecto actual
-Estoy trabajando en un emocionante proyecto de desarrollo móvil llamado Lista de seguimiento (https://play.google.com/store/apps/details?id=com.atrapados.ordenapp). ¡Te invito a echarle un vistazo y dejarme tus comentarios!
+Estoy trabajando en un emocionante proyecto de desarrollo móvil llamado [Lista de seguimiento](https://play.google.com/store/apps/details?id=com.atrapados.ordenapp). ¡Te invito a echarle un vistazo y dejarme tus comentarios!
 
 ### Contáctame
 Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, ¡no dudes en hacerlo! Puedes encontrarme en las siguientes plataformas:

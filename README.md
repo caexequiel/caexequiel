@@ -5,13 +5,18 @@
 ### Acerca de mí
 Soy profesor de física apasionado por la enseñanza y el desarrollo de software. También tengo experiencia en el modelado 3D en Blender y la robótica con Arduino. ¡Me encanta explorar nuevas tecnologías y aprender constantemente!
 
-### Mis habilidades y lenguajes de programación
+### Mis habilidades y lenguajes de programación y de etiquetas
 
 - C++
 - Python
 - Java
+- HTML
+- JavaScript
+- CSS
 - Modelado 3D en Blender
 - Robótica con Arduino
+- Análisis de datos con pandas, numpy, seaborn, etc.
+- Aprendizaje automático supervisado.
 
 ### Proyecto actual
 Estoy trabajando en un emocionante proyecto de desarrollo móvil llamado [Lista de seguimiento](https://play.google.com/store/apps/details?id=com.atrapados.ordenapp). ¡Te invito a echarle un vistazo y dejarme tus comentarios!

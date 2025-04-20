@@ -39,3 +39,7 @@ Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, ¡no dud
 
 ¡Espero que encuentres interesante mi trabajo y que tengamos la oportunidad de colaborar juntos!
 
+### Eliminar datos de la app
+Puedes solicitar la eliminación de tus datos almacenados en la app escribiendo al correo
+caexequiel@gmail.com
+
